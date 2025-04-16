@@ -34,3 +34,7 @@ git clone https://github.com/LakshmiBotta/PiXel-Py.git
 
 💖 Made with love & JavaScript ✨  
 🐍 Play, have fun & don’t let the snake crash! 🎮  
+
+## License and Copyrights
+
+[Click here to view the License and Copyrights](LICENSE.txt)
